@@ -77,6 +77,6 @@ app.post('/update-profile', function (req, res) {
 });
 
 app.listen(3000, function () {
-  console.log("app listening on port 3000!");
+  console.log("app listening ON port 3000!");
 });
 
